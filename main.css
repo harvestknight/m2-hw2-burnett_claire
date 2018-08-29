@@ -1,0 +1,19 @@
+/*
+#FFFFFF - white
+#F5F4F0 - tan
+#516A4C - green
+#EE3453 - red
+*/
+
+/* RESET RULE */
+*   {
+    margin: 0; /* space outside of an element */
+    padding: 0; /* space inside of an element */
+    border: 0;
+}
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
